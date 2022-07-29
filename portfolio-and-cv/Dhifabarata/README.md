@@ -1,1 +1,1 @@
-"Halo perkenalkan aku halaman utama"
+"Halo perkenalkan ini halaman utama"
