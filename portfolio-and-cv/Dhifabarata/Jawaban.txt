@@ -1,0 +1,11 @@
+1)Menghapus file yang tidak terlacak di repo directory
+2)Menghapus branch
+3)git branch (nama branch)
+4)- Fast forward agar saat kita melakukan log oneline tidak terjadi konflik, - Recur>
+penggabungan default saat menarik atau menggabungkan satu cabang
+5)git checkout
+6)git rm
+7)git branch -d
+8)Melihat perbandingan perubahan
+9)git reset
+10)Ketika git tidak dapat secara otomatis menyelesaikan perbedaan kode antara dua com
